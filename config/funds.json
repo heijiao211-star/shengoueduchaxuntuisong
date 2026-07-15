@@ -1,0 +1,15 @@
+{
+  "timezone": "Asia/Shanghai",
+  "funds": [
+    {"code": "000834", "name": "大成纳斯达克100ETF联接(QDII)A", "manager": "大成基金", "invested": true},
+    {"code": "019172", "name": "摩根纳斯达克100指数(QDII)人民币A", "manager": "摩根基金", "invested": true},
+    {"code": "019524", "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A", "manager": "华泰柏瑞基金", "invested": true},
+    {"code": "018966", "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A", "manager": "汇添富基金", "invested": true},
+    {"code": "539001", "name": "建信纳斯达克100指数(QDII)A人民币", "manager": "建信基金", "invested": true},
+    {"code": "019547", "name": "招商纳斯达克100ETF发起式联接(QDII)A", "manager": "招商基金", "invested": true},
+    {"code": "019441", "name": "万家纳斯达克100指数(QDII)A", "manager": "万家基金", "invested": true},
+    {"code": "270042", "name": "广发纳斯达克100ETF联接(QDII)A人民币", "manager": "广发基金", "invested": true},
+    {"code": "040046", "name": "华安纳斯达克100ETF联接(QDII)A", "manager": "华安基金", "invested": true},
+    {"code": "016452", "name": "南方纳斯达克100指数发起(QDII)A", "manager": "南方基金", "invested": true}
+  ]
+}
